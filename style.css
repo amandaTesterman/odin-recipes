@@ -1,0 +1,26 @@
+#siteTitle{
+    font-size: 3rem;
+    color: brown;
+}
+.links{
+    padding:1rem;
+}
+p{
+    color: red;
+
+}
+.subtitle{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.ingredient, .pageTitle{
+    color: green;
+}
+.pageTitle{
+    font-family: cursive;
+}
+ul>li{
+    color: goldenrod;
+}
+ol{
+    color: purple;
+}
